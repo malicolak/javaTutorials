@@ -12,6 +12,7 @@ public class Main {
             System.out.println("i = " + i);
             System.out.println("finish");
             System.out.println("lets go");
+            System.out.println("ilk push denemesi");
         }
     }
 }
